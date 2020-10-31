@@ -1,0 +1,19 @@
+AUTHOR=Martín-Jiménez Cynthia A., Salazar-Barreto Diego, Barreto George E., González Janneth
+	 
+TITLE=Genome-Scale Reconstruction of the Human Astrocyte Metabolic Network  
+	
+JOURNAL=Frontiers in Aging Neuroscience     
+	
+VOLUME=9      
+	
+YEAR=2017
+	
+PAGES=23   
+		
+URL=https://www.frontiersin.org/article/10.3389/fnagi.2017.00023     
+	  
+DOI=10.3389/fnagi.2017.00023    
+	
+ISSN=1663-4365   
+
+ABSTRACT=Astrocytes are the most abundant cells of the central nervous system; they have a predominant role in maintaining brain metabolism. In this sense, abnormal metabolic states have been found in different neuropathological diseases. Determination of metabolic states of astrocytes is difficult to model using current experimental approaches given the high number of reactions and metabolites present. Thus, genome-scale metabolic networks derived from transcriptomic data can be used as a framework to elucidate how astrocytes modulate human brain metabolic states during normal conditions and in neurodegenerative diseases. We performed a Genome-Scale Reconstruction of the Human Astrocyte Metabolic Network with the purpose of elucidating a significant portion of the metabolic map of the astrocyte. This is the first global high-quality, manually curated metabolic reconstruction network of a human astrocyte. It includes 5,007 metabolites and 5,659 reactions distributed among 8 cell compartments, (extracellular, cytoplasm, mitochondria, endoplasmic reticle, Golgi apparatus, lysosome, peroxisome and nucleus). Using the reconstructed network, the metabolic capabilities of human astrocytes were calculated and compared both in normal and ischemic conditions. We identified reactions activated in these two states, which can be useful for understanding the astrocytic pathways that are affected during brain disease. Additionally, we also showed that the obtained flux distributions in the model, are in accordance with literature-based findings. Up to date, this is the most complete representation of the human astrocyte in terms of inclusion of genes, proteins, reactions and metabolic pathways, being a useful guide for in-silico analysis of several metabolic behaviors of the astrocyte during normal and pathologic states.
